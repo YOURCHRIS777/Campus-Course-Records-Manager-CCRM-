@@ -3,6 +3,7 @@ Campus Course &amp; Records Manager (CCRM) is a Java console app that helps inst
 
 
 
+
 🗝️ Key Features:
 
 Student Management: Add, update, and deactivate students with detailed profiles and enrollment tracking.
@@ -32,6 +33,23 @@ Robust exception handling with custom exceptions and assertions to maintain data
 File management using Java NIO.2 for efficient and modern I/O.
 
 Demonstrates comprehensive understanding of Java core concepts required in academic and enterprise-grade applications.
+
+
+
+
+Prerequisites :-
+
+JDK 11 or above installed on your local machine.
+
+Basic knowledge of Java programming, especially object-oriented concepts.
+
+Familiarity with console-based applications and command-line usage.
+
+Git installed for version control and GitHub interactions.
+
+An IDE such as Eclipse, IntelliJ IDEA, or Visual Studio Code configured for Java development.
+
+Optional: Basic knowledge of CSV/JSON data formats and file handling.
 
 This project serves as a practical example for mastering advanced Java programming, applying design principles, and handling real-world academic data management through the power of Java SE.
 
